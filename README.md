@@ -1,4 +1,4 @@
 ### FILE TEMPLATE UNTUK APLIKASI CROSSCHECK HM 
 KLIK DI BAWAH UNTUK DOWNLOAD TEMPLATE
 
-## [Download Template](https://www.example.com)
+## [Download Template](https://github.com/it-kim-bdm/TEMPLATE_CROSSCHECK_HM/releases/download/0.0.1/TEMPLATE.CROSSCHECK.xlsx)
